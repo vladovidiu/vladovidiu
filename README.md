@@ -2,10 +2,16 @@
   <h1 align="center"><b>Hi there, I'm Vlad 👋</b></h1>
 </p>
 
+<!-- Links section -->
 <p align="center">
-<a href="https://www.linkedin.com/in/vlad-tutunea-b3246291/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://vladtutunea.com"><img src="https://img.shields.io/badge/-Website-%23ff69b4&?style=for-the-badge&?color=ff69b4" alt="Website" /></a>&nbsp;
+  <a target="_blank" href="https://www.linkedin.com/in/vlad-tutunea-b3246291/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a target="_blank" href="https://vladtutunea.com">
+    <img src="https://img.shields.io/badge/-Website-%23ff69b4&?style=for-the-badge&?color=ff69b4" alt="Website" />
+  </a>&nbsp;
 </p>
+
 <br />
 
 <!--
