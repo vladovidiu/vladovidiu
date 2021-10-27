@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
   <a target="_blank" href="https://vladtutunea.com">
-    <img src="https://img.shields.io/badge/-Website-%23ff69b4&?style=for-the-badge&?color=ff69b4" alt="Website" />
+    <img src="https://img.shields.io/badge/-Website-%23ff69b4&?style=for-the-badge&?color=blueviolet" alt="Website" />
   </a>&nbsp;
 </p>
 
