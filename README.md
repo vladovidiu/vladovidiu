@@ -1,10 +1,12 @@
-### 
-
 <p>
   <h1 align="center"><b>Hi there, I'm Vlad 👋</b></h1>
 </p>
 
-
+<p align="center">
+<a href="https://www.linkedin.com/in/vlad-tutunea-b3246291/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://vladtutunea.com"><img src="https://img.shields.io/badge/-Website-%23ff69b4&?style=for-the-badge&?color=ff69b4" alt="Website" /></a>&nbsp;
+</p>
+<br />
 
 <!--
 **vladovidiu/vladovidiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
